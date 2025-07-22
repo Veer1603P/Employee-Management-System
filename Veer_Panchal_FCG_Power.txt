@@ -1,0 +1,6 @@
+name: Veer_Panchal
+email: panchalveer1603@gmail.com
+location: Hiranandani Powai
+Gender: Male
+reason: Got a better Oppurtunity.
+
